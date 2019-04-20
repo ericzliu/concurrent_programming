@@ -72,7 +72,6 @@ fabric.properties
 /miniproject_1/src/test/java/edu/coursera/concurrent/RepeatingSequenceGenerator.java
 /miniproject_1/src/test/java/edu/coursera/concurrent/ReversedSequenceGenerator.java
 /miniproject_1/src/test/java/edu/coursera/concurrent/SequenceGenerator.java
-/miniproject_1/src/main/java/edu/coursera/concurrent/SyncList.java
 /miniproject_1/src/test/java/edu/coursera/concurrent/TestThread.java
 /miniproject_2/src/main/java/edu/coursera/concurrent/ThreadSafeBankTransaction.java
 /miniproject_2/src/test/java/edu/coursera/concurrent/BankTransactionsTest.java
